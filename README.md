@@ -59,9 +59,13 @@ Compile the contract:
 ## Contributing
 
 Fork the repository.
+
 Create a new branch for your feature or bugfix.
+
 Commit your changes.
+
 Push the branch to your fork.
+
 Submit a pull request with a detailed description of your changes.
 
 ## License
